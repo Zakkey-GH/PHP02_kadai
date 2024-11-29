@@ -5,6 +5,7 @@ Buuker -- Booker
 写真を投稿し、ブックマークできる
 
 ## ③アプリのデプロイURL
+https://gsacademyyy.sakura.ne.jp/php02/index_1.php
 
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
